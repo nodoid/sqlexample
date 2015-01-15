@@ -1,1 +1,35 @@
-﻿<Properties StartupItem="sqlexample/sqlexample.csproj" />
+﻿<Properties StartupItem="sqlexample/sqlexample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sqlexample/MainActivity.cs">
+    <Files>
+      <File FileName="sqlexample/MainActivity.cs" Line="46" Column="46" />
+      <File FileName="sqlexample/SQLite/Constants.cs" Line="21" Column="21" />
+      <File FileName="sqlexample/DBManager.cs" Line="9" Column="9" />
+      <File FileName="sqlexample/Singleton.cs" Line="6" Column="6" />
+      <File FileName="sqlexample/DataModels/TestTable.cs" Line="39" Column="39" />
+      <File FileName="sqlexample/DataModels/Videos.cs" Line="9" Column="9" />
+      <File FileName="sqlexample/DataModels/IIdentity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="sqlexample" expanded="True">
+            <Node name="DataModels" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+            </Node>
+            <Node name="SQLite" expanded="True" />
+            <Node name="MainActivity.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../FTrack/ftrack2-ios/ftrack2-ios/Livestock/ChangeType.cs" line="23" offsetX="421" offsetY="285" expression="old" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.sqlexample MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
