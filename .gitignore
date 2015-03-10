@@ -2,5 +2,10 @@ Android/sqlexample/sqlexample/bin/*
 Android/sqlexample/sqlexample/obj/*
 iOS/sqlexample/sqlexample/bin/*
 iOS/sqlexample/sqlexample/obj/*
-Forms/sqlexample/sqlexample/bin/*
-Forms/sqlexample/sqlexample/obj/*
+Forms/SQLForms/SQLForms/bin/*
+Forms/SQLForms/SQLForms/obj/*
+Forms/SQLForms/Droid/bin/*
+Forms/SQLForms/Droid/obj/*
+Forms/SQLForms/iOS/bin/*
+Forms/SQLForms/iOS/obj/*
+Forms/SQLForms/packages/*
